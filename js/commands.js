@@ -32,9 +32,9 @@ Our mission? To take you on a meme-powered rocket to the moon and beyond. We're 
 
 social = [
   "<br>",
-  'Telegram        <a href="' +
+  'Telegram        <a href="https://t.me/CryptoBoyERC' +
   telegram +
-  '" target="blank">telegram/crypto_boy' +
+  '" target="blank">telegram/CryptoBoyERC' +
   "</a>",
   'Twitter     <a href="' +
   twitter +

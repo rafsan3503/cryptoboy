@@ -36,9 +36,9 @@ social = [
   telegram +
   '" target="blank">telegram/CryptoBoyERC' +
   "</a>",
-  'Twitter     <a href="' +
+  'Twitter     <a href="https://twitter.com/CryptoBoyERC' +
   twitter +
-  '" target="blank">twitter/crypto_boy' +
+  '" target="blank">twitter/CryptoBoyERC' +
   "</a>",
   // 'Instagram  <a href="' +
   // instagram +

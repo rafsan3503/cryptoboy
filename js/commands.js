@@ -1,4 +1,3 @@
-
 var telegram = "tglink";
 var twitter = "twitterlink";
 // var instagram = "https://www.instagram.com/_i_am_pratyush04/";
@@ -24,8 +23,7 @@ Our mission? To take you on a meme-powered rocket to the moon and beyond. We're 
   "<br>",
   `<pre class="whitespace-pre-wrap">
   Join us, and let's conquer the crypto universe together. Crypto Boy Token - where memes meet millions! 🚀🌕💥"`,
-  
-  
+
   // `<li>📫 Contact us at <a href= "mailto:contact@cryptoboy.bio" target="_blank">contact@cryptoboy.bio</a>`,
   // "<br>",
 ];
@@ -33,13 +31,13 @@ Our mission? To take you on a meme-powered rocket to the moon and beyond. We're 
 social = [
   "<br>",
   'Telegram        <a href="https://t.me/CryptoBoyERC' +
-  telegram +
-  '" target="blank">telegram/CryptoBoyERC' +
-  "</a>",
+    telegram +
+    '" target="blank">telegram/CryptoBoyERC' +
+    "</a>",
   'Twitter     <a href="https://twitter.com/CryptoBoyERC' +
-  twitter +
-  '" target="blank">twitter/CryptoBoyERC' +
-  "</a>",
+    twitter +
+    '" target="blank">twitter/CryptoBoyERC' +
+    "</a>",
   // 'Instagram  <a href="' +
   // instagram +
   // '" target="blank">instagram/pratyushsingha' +
@@ -56,14 +54,14 @@ social = [
   "<br>",
 ];
 
-tokenomics =[
+tokenomics = [
   "<br>",
   `<span class='underline'>Token Supply</span>
   - 1 Million (1,000,000)</pre>`,
   `<span class='underline'>Total Tax</span>
   - 2/2 On Buys & Sells</pre>`,
   `<span class='underline'>Token CA</span>
-  0x0000000000000000000</pre>`,
+  0xFB4487bAf9d6f9eBfA8c2481DFf07904134E19Df</pre>`,
   // `<pre class="whitespace-pre-wrap skills">
   // - Tailwind CSS</pre>`,
   // `<pre class="whitespace-pre-wrap skills">
@@ -74,12 +72,8 @@ tokenomics =[
   // - Linux</pre>`,
   // `<pre class="whitespace-pre-wrap skills">
   // - Web Hosting(Azure, Vercel, Netlify,Digital Ocean)</pre>`,
-  "<br>"
-   
+  "<br>",
 ];
-
-
-
 
 help = [
   `<br><pre class="whitespace-pre-wrap">
